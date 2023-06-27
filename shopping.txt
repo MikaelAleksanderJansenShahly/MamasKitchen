@@ -3,5 +3,6 @@ bread
 butter
 jam
 salami
+chocolate
 egg
 coke
